@@ -15,14 +15,12 @@
 	<name>JtSpringProject</name>
 	<description>Spring project for Java Technology</description>
 	<properties>
-		<java.version>21</java.version>
-		<sonar.host.url>http://http://13.127.234.152:9000//</sonar.host.url>
-		<sonar.login>admin</sonar.login>
-		<sonar.password>Luckey@12</sonar.password>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<maven.compiler.source>11</maven.compiler.source>
-                <maven.compiler.target>3.9.10</maven.compiler.target>
-	</properties>
+    <java.version>21</java.version>
+    <sonar.host.url>http://13.127.234.152:9000</sonar.host.url>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.source>21</maven.compiler.source>
+    <maven.compiler.target>21</maven.compiler.target>
+</properties>
 	<dependencies>
 
 
